@@ -2,6 +2,11 @@
 
 ![TempMail Banner](banner.png)
 
+![GitHub stars](https://img.shields.io/github/stars/wanzxploit/Doble-Short?style=social)
+![Version](https://img.shields.io/badge/version-1.0-brightgreen)
+![Python](https://img.shields.io/badge/python-3.7+-blue)
+![Platform](https://img.shields.io/badge/platform-linux%20%7C%20termux-lightgrey)
+
 TempMailViewer is a command-line application that allows you to easily create and check temporary emails. This application uses the 1secmail API to generate temporary email addresses and automatically check the inbox.
 
 ## Project Structure
