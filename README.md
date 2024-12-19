@@ -1,4 +1,4 @@
-# TempMailViewer
+# TempMail
 
 ![TempMail Banner](banner.png)
 
